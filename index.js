@@ -5,5 +5,5 @@ function theBeatlesPlay(musicians, instruments) {
     musicianstring= musicians[i]+ 'plays' + instruments[i];
     musiciansinstruments[i]=musicianstring;
   }
-  return musicaianinstrument;
+  return musicaianinstruments;
 }
